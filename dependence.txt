@@ -11,3 +11,10 @@ fun
 ujson	
 dotenv	
 httpx
+
+
+6Dy拉库命令：
+ql repo https://js.okyago.com/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp|jd_farmshare.js|" "^jd[^_]|USER|JD|function|sendNotify|utils"
+
+IKUUU拉库命令：
+https://github.com/bighammer-link/jichang_dailycheckin.git
