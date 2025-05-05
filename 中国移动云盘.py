@@ -2,8 +2,10 @@
 # @Project          QL_TimingScript
 # @fileName         中国移动云盘.py
 # @author           Echo
-# @EditTime         2024/11/4
-# cron: 0 38 4,9,15,23 * * *
+/*
+    name: "移动云盘"
+    cron: 0 38 4,9,15,23 * * *
+*/
 # const $ = new Env('中国移动云盘');
 """
 设置环境变量，ydyp_ck，格式 Basic XXXXXXXX#手机号#token
