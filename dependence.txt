@@ -1,0 +1,12 @@
+NodeJs:
+node-rsa	
+crypto-js	
+xmldom
+
+
+
+Python3:
+fun	
+ujson	
+dotenv	
+httpx
