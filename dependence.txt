@@ -2,8 +2,9 @@ NodeJs:
 node-rsa	
 crypto-js	
 xmldom
-
-
+tough-cookie	
+axios	
+jsdom
 
 Python3:
 fun	
