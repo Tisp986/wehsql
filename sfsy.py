@@ -3,7 +3,7 @@
 # @fileName         sfsy.py
 # @author           Echo
 # @EditTime         2025/3/19
-# cron: 0 10,15,18 * * *
+# cron: 0 25 6,16,23 * * *
 # const $ = new Env("顺丰速运");
 """
 开启抓包，小程序-我的-积分
