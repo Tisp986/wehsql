@@ -11,6 +11,7 @@ fun
 ujson	
 dotenv	
 httpx
+requests
 
 
 6Dy拉库命令：
