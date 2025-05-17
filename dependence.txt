@@ -5,6 +5,8 @@ xmldom
 tough-cookie	
 axios	
 jsdom
+node-jsencrypt
+jsdom
 
 Python3:
 fun	
