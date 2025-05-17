@@ -6,14 +6,24 @@ tough-cookie
 axios	
 jsdom
 node-jsencrypt
-jsdom
+execjs
 
 Python3:
-fun	
-ujson	
-dotenv	
+pandas
+tenacity
+notifiers
+aiohttp
+dotenv
 httpx
+tools
+dailycheckin
+Crypto
+lxml
+pyexecjs
+bs4
+aligo==6.0.4
 requests
+
 
 
 6Dy拉库命令：
