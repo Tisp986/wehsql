@@ -1,30 +1,48 @@
-NodeJs:
-node-rsa	
-crypto-js	
-xmldom
-tough-cookie	
-axios	
-jsdom
-node-jsencrypt
-execjs
-got
+NodeJS：
+
+axios  
+cheerio  
+crypto-js  
+download  
+execjs  
+got  
+http-server  
+jsdom  
+moment  
+node-jsencrypt  
+node-rsa  
+tough-cookie  
+tunnel  
+ws  
+xmldom  
 
 
-Python3:
-pandas
-tenacity
-notifiers
-aiohttp
-dotenv
-httpx
-tools
-dailycheckin
-Crypto
-lxml
-pyexecjs
-bs4
-aligo==6.0.4
-requests
+Python：
+
+aiohttp  
+aligo==6.0.4  
+beautifulsoup4  
+bs4  
+canvas  
+Crypto  
+dailycheckin  
+dotenv  
+fake useragent  
+httpx  
+jieba  
+lxml  
+notifiers  
+pandas  
+ping3  
+pycryptodome  
+pyexecjs  
+PyExecJS  
+python-dotenv  
+requests  
+tenacity  
+tools  
+yagmail  
+
 
 
 
